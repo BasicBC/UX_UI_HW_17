@@ -1,0 +1,51 @@
+ul {
+  font-family: 'Lexend Zetta', sans-serif;
+  float: right;
+}
+
+li{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  text-decoration: none;
+  vertical-align: top;
+}
+
+.logo {
+  width: 10%;
+}
+
+#hero {
+  display: flex;
+align-items: center;   
+justify-content: center;
+
+}
+
+.hero_content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  margin-left: 200px;
+
+}
+
+.heroimg{
+  float: left;
+  padding: 10px;
+  margin: 50px;
+  margin-left: 300px;
+}
+
+p{
+  float: right;
+  font-family: 'roboto', sans-serif;
+  text-align: left;
+
+}
+
+.intro {
+width: 100vw;
+}
